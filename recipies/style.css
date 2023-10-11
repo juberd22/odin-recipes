@@ -1,0 +1,15 @@
+.text {font-family: Georgia, 'Times New Roman', Times, serif;
+color: cornflowerblue;
+}
+
+.name {text-align: center;
+font-size: 38px;
+color: rgb(180, 120, 42);
+font-family: 'Courier New', Courier, monospace;}
+
+.img {text-align: center;}
+
+.head {font-size: 30px;
+color: bisque;
+font-family: 'Courier New', Courier, monospace;
+background-color: black;}
